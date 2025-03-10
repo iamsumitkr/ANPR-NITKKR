@@ -1,0 +1,9 @@
+/dataset
+/images
+/jpeg
+/runs/detect
+/TEST
+/test_results
+/xml
+/data.yaml
+/yolov8n.pt
